@@ -1,0 +1,29 @@
+# Dependency folders
+node_modules
+.pnpm-store
+
+# TypeScript build output
+dist
+build
+
+# Logs and debug files
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Git files
+.git
+.gitignore
+
+# Docker-specific
+Dockerfile
+.dockerignore
